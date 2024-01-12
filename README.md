@@ -1,5 +1,6 @@
 # Rayz Model/
 #Architecture/
+
 Model is based on CNN network. Has three CNN  layers and three pooling layers besides one flatten and one dense layer./
 After training its is ready to predict real and fake/
 
